@@ -1,6 +1,6 @@
 ### sejam bem vindo ao meu perfil 💙
 
--meu nome é diego
+-Meu nome é Diego
 
 -Estou estudando no alura
 -Estou me desenvolvendo na linguagem javascript
